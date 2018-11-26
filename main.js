@@ -15,7 +15,7 @@ const platform = {
     ]
 //******* Below is the original code/solution for images; code above is a different approach; same results with both codes (due to HTML? How to hide HTML?) */
        // { headshot: 
-            //document.querySelectorAll(".headshot");           //ALTERNATIVE?
+            //document.querySelectorAll(".headshot");     //Tried as an ALTERNATIVE to .getElementById on line 19.
             // document.getElementById("headshot"); 
         // },
         // {
